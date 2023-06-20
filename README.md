@@ -16,8 +16,12 @@
 <h3 align="left">Mes réseaux:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mickael-r%C3%A9beau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickael rébeau" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/mike_photocollection" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mike_photocollection" height="30" width="40" /></a>
+
 <a href="https://discord.gg/qT6FUzx628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qT6FUzx628" height="30" width="40" /></a>
+
+<a href="https://www.twitch.tv/mike_dreeman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="mike_dreeman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Compétences:</h3>
@@ -32,10 +36,8 @@
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mickaelrebeau&show_icons=true&locale=en&layout=compact" alt="mickaelrebeau" /></p>
-</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mickaelrebeau&show_icons=true&locale=en" alt="mickaelrebeau" /></p>
-</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickaelrebeau&" alt="mickaelrebeau" /></p>
 
