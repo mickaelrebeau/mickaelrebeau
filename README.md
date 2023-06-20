@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je sui Mickael Rébeau</h1>
+<h1 align="center">Salut 👋, je suis Mickael Rébeau</h1>
 <h3 align="center">Un développeur Python | React | Node JS | Symfony</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mickaelrebeau&label=Profile%20views&color=0e75b6&style=flat" alt="mickaelrebeau" /> </p>
