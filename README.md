@@ -5,7 +5,7 @@
 
 - 🌱 J'apprends encore **React et NestJS**
 
-- 👨‍💻 Mon Portfolio [https://mickaelrebeau.github.io/Portfolio/](https://mickaelrebeau.github.io/Portfolio-React/)
+- 👨‍💻 Voici le lien vers mon [Portfolio](https://mickaelrebeau.github.io/Portfolio-React/)
 
 - 💬 A propos **Je stream aussi de temps en temps**. N'hésitez pas à aller voir ma Chaine Twitch.
 
