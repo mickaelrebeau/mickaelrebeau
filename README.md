@@ -50,5 +50,3 @@ Coded by [**Freyna**](https://github.com/Frayna/Frayna)
 
 <img src="https://github-readme-stats.vercel.app/api?username=mickaelrebeau&show_icons=true&locale=en" alt="mickaelrebeau" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaelrebeau&" alt="mickaelrebeau" />
-
