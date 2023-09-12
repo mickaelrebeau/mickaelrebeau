@@ -39,8 +39,8 @@
 
 |<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="mike_dreeman" height="20" width="20" />  LiveStream : |
 |----------------------------------------------------------------------------------------------------------------------------|
-| [![](https://static-cdn.jtvnw.net/previews-ttv/live_user_thefrayna-384x216.jpg)](https://www.twitch.tv/mike_dreeman)        |
-| [![](https://y6eyebw4fsjaif3tv75cs2dgna0sjgog.lambda-url.eu-north-1.on.aws/?streamer=thefrayna)](https://www.twitch.tv/mike_dreeman) |
+| [![](https://static-cdn.jtvnw.net/previews-ttv/live_user_mike_dreeman-384x216.jpg)](https://www.twitch.tv/mike_dreeman)        |
+| [![](https://y6eyebw4fsjaif3tv75cs2dgna0sjgog.lambda-url.eu-north-1.on.aws/?streamer=mike_dreeman)](https://www.twitch.tv/mike_dreeman) |
 
 Coded by [**Freyna**](https://github.com/Frayna/Frayna)
 
