@@ -1,52 +1,75 @@
-<h1 align="center">Salut 👋, je suis Mickael Rébeau</h1>
-<h3 align="center">Un développeur Python | React | NestJS | Symfony | Django</h3>
+# Mickael Rébeau
 
-<br/>
+**SaaS builder · développeur fullstack Vue & Python · formateur IA**  
+Reims, France
 
-- 🌱 J'apprends encore **React et NestJS**
+Je conçois des applications web et des systèmes métiers pour les PME : CRM, veille, automatisations, outils internes. Le fil rouge, c'est de remplacer les process Excel et les logiciels trop lourds par quelque chose que les équipes adoptent vraiment.
 
-- 👨‍💻 Voici le lien vers mon [Portfolio](https://mike-dreeman-portfolio-2025.vercel.app/)
+J'accompagne aussi des entrepreneurs chez **LegalPlace / ScalePlace** : acquisition, SEO, IA appliquée au marketing et agents n8n.
 
-- 💬 A propos **Je stream aussi de temps en temps**. N'hésitez pas à aller voir ma Chaine Twitch.
+[Portfolio](https://www.rebeaumickael.fr) · [LinkedIn](https://www.linkedin.com/in/mickael-r%C3%A9beau/) · [Email](mailto:rebeau.mickael@gmail.com)
 
-- 📫 Comment me contacter ? **rebeau.mickael@gmail.com**
+---
 
-- ⚡ Fun fact **Je fais de la photographie amateur**. N'hésitez pas à aller voir mon Instagram. 
+## Produits
 
-<br/>
+**[MercatoCopilot](https://www.mercatocopilot.fr)** — veille IA des marchés publics.  
+Agrège BOAMP, TED et plateformes régionales, score les DCE et envoie des alertes. Pour les PME qui répondent aux appels d'offres.
 
-### Mes Réseaux :
-<p align="left">
-<a href="https://www.linkedin.com/in/mickael-r%C3%A9beau/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickael rébeau" height="30" width="40" /></a> 
-<a href="https://instagram.com/mike_photocollection" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mike_photocollection" height="30" width="40" /></a>
-<a href="https://discord.gg/qT6FUzx628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qT6FUzx628" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/mike_dreeman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="mike_dreeman" height="30" width="40" /></a>
+**[OWN._](https://www.own-minimalist.fr)** — CRM minimaliste.  
+Prospection, scoring et suivi, sans le bloat HubSpot. Licence unique, pas d'abonnement par siège.
+
+**[TV Track](https://www.tv-track.com)** — séries et films.  
+Watchlist, calendrier, import TV Time et communauté. Alternative moderne à TV Time.
+
+**[Talento](https://cv-compare.up.railway.app)** — analyse ATS CV ↔ offre.  
+Correspondance sémantique, écarts, reformulations et prep d'entretien. [Code source](https://github.com/mickaelrebeau/CV-Offer-Comparer).
+
+Côté client, je livre aussi des apps et des ERP légers — notamment **Yukee**, une app iOS de productivité.
+
+---
+
+## Open source
+
+<p>
+  <a href="https://github.com/mickaelrebeau/hugeicons-animated-vue"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mickaelrebeau&repo=hugeicons-animated-vue&theme=transparent" alt="hugeicons-animated-vue" /></a>
+  <a href="https://github.com/mickaelrebeau/CV-Offer-Comparer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mickaelrebeau&repo=CV-Offer-Comparer&theme=transparent" alt="Talento / CV-Offer-Comparer" /></a>
+</p>
+<p>
+  <a href="https://github.com/mickaelrebeau/Focus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mickaelrebeau&repo=Focus&theme=transparent" alt="Focus" /></a>
+  <a href="https://github.com/mickaelrebeau/Live-Subtitle-Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mickaelrebeau&repo=Live-Subtitle-Whisper&theme=transparent" alt="Live-Subtitle-Whisper" /></a>
 </p>
 
-</br>
+Aussi : [Flowshare](https://github.com/mickaelrebeau/Flowshare) (workflows n8n) · [QuizMaster Entreprise](https://github.com/mickaelrebeau/QuizMaster-Entreprise) (quiz IA pour entretiens) · [galerie hugeicons](https://hugeicons-animated-vue.rebeaumickael.fr)
 
-### Mes Compétences :
+---
 
-| Front-end : | Back-end : | ORM/Database : | Others : |
-|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---|---|
-|<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> React   |<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="20" height="20"/> </a> NestJS   |<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> MySql     |<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> Postman |
-|<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/> </a> Tailwind     |<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/> </a> Django   |<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </a> MongoDB  |<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a> Docker |
-|<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/></a>  Bootstrap     |<a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="20" height="20"/> </a> Symphony |<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> </a> postgreSql  |<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20"/> </a> Pandas |
+## Stack
 
-<br/>
+Celle avec laquelle je ship aujourd'hui.
 
-### Streaming :
+| Couche | Outils |
+| --- | --- |
+| Frontend | Vue 3, Nuxt, Tailwind CSS, Pinia, Lenis, GSAP, Three.js |
+| Backend | FastAPI, Python, Node.js, PostgreSQL |
+| IA & agents | Cursor, n8n, Gemini, hermes |
+| Prod | Docker, Railway, Stripe, PostHog |
 
-|<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="mike_dreeman" height="20" width="20" />  LiveStream : |
-|----------------------------------------------------------------------------------------------------------------------------|
-| [![](https://static-cdn.jtvnw.net/previews-ttv/live_user_mike_dreeman-384x216.jpg)](https://www.twitch.tv/mike_dreeman)        |
-| [![](https://y6eyebw4fsjaif3tv75cs2dgna0sjgog.lambda-url.eu-north-1.on.aws/?streamer=mike_dreeman)](https://www.twitch.tv/mike_dreeman) |
+---
 
-Coded by [**Freyna**](https://github.com/Frayna/Frayna)
+## En ce moment
 
-<br/>
+- **Coach IA** — ScalePlace (LegalPlace) : ICP, SEO, contenu, prospection et automatisations
+- **Freelance fullstack** — SaaS, outils internes, ERP légers, agents n8n
+- **Produits** — MercatoCopilot, OWN._, TV Track, Talento
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mickaelrebeau&show_icons=true&locale=en&layout=compact" alt="mickaelrebeau" />
+Un diagnostic, une démo ou un projet à poser ? Écris-moi sur [LinkedIn](https://www.linkedin.com/in/mickael-r%C3%A9beau/) ou à [rebeau.mickael@gmail.com](mailto:rebeau.mickael@gmail.com).
 
-<img src="https://github-readme-stats.vercel.app/api?username=mickaelrebeau&show_icons=true&locale=en" alt="mickaelrebeau" />
+---
 
+<p>
+  <a href="https://www.linkedin.com/in/mickael-r%C3%A9beau/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.rebeaumickael.fr"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat" alt="Portfolio" /></a>
+  <a href="mailto:rebeau.mickael@gmail.com"><img src="https://img.shields.io/badge/Email-rebeau.mickael@gmail.com-6B7280?style=flat" alt="Email" /></a>
+  <a href="https://www.instagram.com/mike_photocollection/"><img src="https://img.shields.io/badge/Photo-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
