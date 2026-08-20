@@ -7,7 +7,14 @@ Je conçois des applications web et des systèmes métiers pour les PME : CRM, v
 
 J'accompagne aussi des entrepreneurs chez **LegalPlace / ScalePlace** : acquisition, SEO, IA appliquée au marketing et agents n8n.
 
-[Portfolio](https://www.rebeaumickael.fr) · [LinkedIn](https://www.linkedin.com/in/mickael-r%C3%A9beau/) · [Email](mailto:rebeau.mickael@gmail.com)
+---
+
+<p>
+  <a href="https://www.linkedin.com/in/mickael-r%C3%A9beau/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.rebeaumickael.fr"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat" alt="Portfolio" /></a>
+  <a href="mailto:rebeau.mickael@gmail.com"><img src="https://img.shields.io/badge/Email-rebeau.mickael@gmail.com-6B7280?style=flat" alt="Email" /></a>
+  <a href="https://www.instagram.com/mike_photocollection/"><img src="https://img.shields.io/badge/Photo-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
@@ -32,12 +39,12 @@ Côté client, je livre aussi des apps et des ERP légers — notamment **Yukee*
 ## Open source
 
 <p>
-  <a href="https://github.com/mickaelrebeau/hugeicons-animated-vue"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mickaelrebeau&repo=hugeicons-animated-vue&theme=transparent" alt="hugeicons-animated-vue" /></a>
-  <a href="https://github.com/mickaelrebeau/CV-Offer-Comparer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mickaelrebeau&repo=CV-Offer-Comparer&theme=transparent" alt="Talento / CV-Offer-Comparer" /></a>
+  <a href="https://github.com/mickaelrebeau/hugeicons-animated-vue"><img src="https://opengraph.githubassets.com/1/mickaelrebeau/hugeicons-animated-vue" alt="hugeicons-animated-vue" width="400" /></a>
+  <a href="https://github.com/mickaelrebeau/CV-Offer-Comparer"><img src="https://opengraph.githubassets.com/1/mickaelrebeau/CV-Offer-Comparer" alt="Talento / CV-Offer-Comparer" width="400" /></a>
 </p>
 <p>
-  <a href="https://github.com/mickaelrebeau/Focus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mickaelrebeau&repo=Focus&theme=transparent" alt="Focus" /></a>
-  <a href="https://github.com/mickaelrebeau/Live-Subtitle-Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mickaelrebeau&repo=Live-Subtitle-Whisper&theme=transparent" alt="Live-Subtitle-Whisper" /></a>
+  <a href="https://github.com/mickaelrebeau/Focus"><img src="https://opengraph.githubassets.com/1/mickaelrebeau/Focus" alt="Focus" width="400" /></a>
+  <a href="https://github.com/mickaelrebeau/Live-Subtitle-Whisper"><img src="https://opengraph.githubassets.com/1/mickaelrebeau/Live-Subtitle-Whisper" alt="Live-Subtitle-Whisper" width="400" /></a>
 </p>
 
 Aussi : [Flowshare](https://github.com/mickaelrebeau/Flowshare) (workflows n8n) · [QuizMaster Entreprise](https://github.com/mickaelrebeau/QuizMaster-Entreprise) (quiz IA pour entretiens) · [galerie hugeicons](https://hugeicons-animated-vue.rebeaumickael.fr)
@@ -64,12 +71,3 @@ Celle avec laquelle je ship aujourd'hui.
 - **Produits** — MercatoCopilot, OWN._, TV Track, Talento
 
 Un diagnostic, une démo ou un projet à poser ? Écris-moi sur [LinkedIn](https://www.linkedin.com/in/mickael-r%C3%A9beau/) ou à [rebeau.mickael@gmail.com](mailto:rebeau.mickael@gmail.com).
-
----
-
-<p>
-  <a href="https://www.linkedin.com/in/mickael-r%C3%A9beau/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.rebeaumickael.fr"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat" alt="Portfolio" /></a>
-  <a href="mailto:rebeau.mickael@gmail.com"><img src="https://img.shields.io/badge/Email-rebeau.mickael@gmail.com-6B7280?style=flat" alt="Email" /></a>
-  <a href="https://www.instagram.com/mike_photocollection/"><img src="https://img.shields.io/badge/Photo-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
